@@ -1,0 +1,7 @@
+C:\Users\даня f\source\repos\DZ ColectionList3\bin\Debug\DZ ColectionList3.exe.config
+C:\Users\даня f\source\repos\DZ ColectionList3\bin\Debug\DZ ColectionList3.exe
+C:\Users\даня f\source\repos\DZ ColectionList3\bin\Debug\DZ ColectionList3.pdb
+C:\Users\даня f\source\repos\DZ ColectionList3\obj\Debug\DZ ColectionList3.csprojAssemblyReference.cache
+C:\Users\даня f\source\repos\DZ ColectionList3\obj\Debug\DZ ColectionList3.csproj.CoreCompileInputs.cache
+C:\Users\даня f\source\repos\DZ ColectionList3\obj\Debug\DZ ColectionList3.exe
+C:\Users\даня f\source\repos\DZ ColectionList3\obj\Debug\DZ ColectionList3.pdb
